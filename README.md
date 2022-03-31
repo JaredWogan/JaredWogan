@@ -22,12 +22,12 @@
 ### I like fractals...
 <div class="row">
   <div class="column">
-    <img src="https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Dragons%20-%202022-03-28%20at%2018-55-32.png" alt="Dragon" width=200 height=200>
+    <img src="https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Dragons%20-%202022-03-28%20at%2018-55-32.png" alt="Dragon" style="width:30%" width=200 height=200>
   </div>
   <div class="column">
-    <img src="https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Julia%20-%202022-03-28%20at%2019-09-38.png" alt="Galaxy" width=200 height=200>
+    <img src="https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Julia%20-%202022-03-28%20at%2019-09-38.png" alt="Galaxy" style="width:30%" width=200 height=200>
   </div>
   <div class="column">
-    <img src="https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Weird%20-%202022-03-29%20at%2012-03-17.png" alt="Void" width=200 height=200>
+    <img src="https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Weird%20-%202022-03-29%20at%2012-03-17.png" alt="Void" style="width:30%" width=200 height=200>
   </div>
 </div>
