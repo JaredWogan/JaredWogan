@@ -18,3 +18,6 @@
 <a href="https://codestats.net/users/JaredWogan">
   <img src='https://codestats-readme.wegfan.cn/history-graph/JaredWogan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Jared's Code::Stats History Graph" />
 </a>
+
+### I like fractals...
+<img src=https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Dragons%20-%202022-03-28%20at%2018-55-32.png>
