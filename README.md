@@ -20,4 +20,4 @@
 </a>
 
 ### I like fractals...
-<img src=https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Dragons%20-%202022-03-28%20at%2018-55-32.png>
+<img src=https://github.com/JaredWogan/Fractals-next/blob/master/Python/Images/Fractal%20-%20Dragons%20-%202022-03-28%20at%2018-55-32.png width=200, height=200>
