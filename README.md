@@ -6,9 +6,6 @@
 
 ### My latest projects
 
-<a href="https://github.com/JaredWogan/PyOGRe">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JaredWogan&repo=PyOGRe" alt="PyOGRe" />
-</a>
 <a href="https://github.com/JaredWogan/Fractals-next">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JaredWogan&repo=Fractals-next" alt="Fractals-next" />
 </a>
