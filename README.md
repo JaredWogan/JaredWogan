@@ -7,6 +7,9 @@
 
 ### My latest projects
 
+<a href="https://github.com/JaredWogan/OGRePy">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JaredWogan&repo=OGRePy" alt="Fractals-next" />
+</a>
 <a href="https://github.com/JaredWogan/Fractals-next">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=JaredWogan&repo=Fractals-next" alt="Fractals-next" />
 </a>
